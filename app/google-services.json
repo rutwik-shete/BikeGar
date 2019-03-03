@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "495664346393",
+    "firebase_url": "https://bikegarage-2019.firebaseio.com",
+    "project_id": "bikegarage-2019",
+    "storage_bucket": "bikegarage-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495664346393:android:974144818e7e6068",
+        "android_client_info": {
+          "package_name": "com.bikegar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495664346393-da6bqrp2fikd2lrfcej9kmttj9v7h4uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bikegar",
+            "certificate_hash": "4345ea66595bab3242e72e173439e3450e81e355"
+          }
+        },
+        {
+          "client_id": "495664346393-jv5j0vif1qn2ji442ed13q2uf1s85vlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8WxUXRm2ITwymRvx7LQ1x2ksx_CJnpGw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495664346393-jv5j0vif1qn2ji442ed13q2uf1s85vlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
