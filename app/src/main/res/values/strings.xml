@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BikeGar</string>
+
+    <string-array name="Designation">
+        <item>Select Designation</item>
+        <item>Customer</item>
+        <item>Owner</item>
+        <item>Worker</item>
+    </string-array>
+
+    <string-array name="BikeComp">
+        <item>Select Bike Company</item>
+        <item>Yamaha</item>
+        <item>Honda</item>
+        <item>TVS</item>
+    </string-array>
+
+    <string-array name="BikeModel">
+        <item>Select Bike Model</item>
+        <item>Fazer</item>
+        <item>R15</item>
+        <item>Unicorn</item>
+    </string-array>
+
+    <string-array name="BikeCompOwner">
+        <item>Select Bike Company You Service</item>
+        <item>Yamaha</item>
+        <item>Honda</item>
+        <item>TVS</item>
+        <item>All</item>
+    </string-array>
+</resources>
